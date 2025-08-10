@@ -6,7 +6,7 @@ Welcome to my personal study repository for the CompTIA Security+ certification 
 
 All notes and question analyses in this repository are based on the following official guide:
 
-> **CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701, 9th Edition**
+> **[CompTIA Security+ Study Guide with over 500 Practice Test Questions: Exam SY0-701, 9th Edition]**(https://dl1.technet24.ir/Downloads/EBooks/Security/CompTIA-Security-Study-Guide-with-over-500-Practice-Test-Questions-Exam-SY0-701-9th-Edition.pdf)
 
 The methodology described below is applied directly to the content and the 500+ practice questions provided in this book.
 
